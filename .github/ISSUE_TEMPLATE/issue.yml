@@ -4,7 +4,7 @@ body:
   - type: input
     attributes:
       label: Mod version (NOT Minecraft version)
-      description: Please note that unless this bug still exists on the latest avaiable Mod version and Minecraft version, it will not be fixed. Versions titled "latest,", "newest," or some other vague indiciator will be closed without comment.
+      description: Please note that unless this bug still exists on the latest available Mod version and Minecraft version, it will not be fixed. Versions titled "latest,", "newest," or some other vague indiciator will be closed without comment.
     validations:
       required: true
   - type: textarea
